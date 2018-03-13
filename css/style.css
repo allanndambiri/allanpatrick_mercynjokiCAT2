@@ -1,0 +1,74 @@
+.jumbotron{
+	background-color: black;
+	color: white;
+}
+body{
+	background-image: url("../images/leo.jpg");
+	background-size: cover;
+	
+
+}
+.tab-content{
+width:50%;
+margin:auto;
+color: black;
+background-image: url("../images/spidey.jpg");
+background-size: cover;
+}
+a{
+	text-align: center;
+}
+h3{
+	color: white;
+}
+footer{
+	color: white;
+	text-align: center;
+}
+.add-task{
+	color:black;
+	margin:auto;
+	width:30%;
+	padding-top:100px;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+h1{
+	color:red;
+	text-align: center;
+}
+.a1{
+	color:white;
+}
+.f1{
+	margin:auto;
+	width:20%;
+	padding-top: 100px;
+
+}
+.h{
+	color: white;
+}
+.d1{
+	margin:auto;
+	width:20%;
+	padding-top: 100px;
+
+}
+.e1{
+	margin:auto;
+	width:20%;
+	padding-top: 100px;
+
+}
+h4{
+	color:red;
+}
+.tasks{
+	color:white;
+
+}
+
+
